@@ -3,7 +3,7 @@
 ## Description
 A Python-based port scanner developed for cybersecurity learning.
 
-##Features
+## Features
 - TCP port scanning
 - Open/closed port detection 
 - Basic network reconnaissance
